@@ -1,0 +1,2 @@
+# archinstscript
+script installation archlinux
